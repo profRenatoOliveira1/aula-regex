@@ -48,4 +48,3 @@ console.log(cpfFormatado);
 // let cep: string = "14160000";
 
 // console.log(cep.replace(cepRegex, "$1.$2-$3"));
-
